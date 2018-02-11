@@ -154,7 +154,6 @@ brokenList = {
 			"96ef58a0873a7d231a8685975dab223e" : "rooktomasrook",
 			"9fc2c367128fa7572e900e93a5b81403" : "5432167890SyxthSense",
 
-
 			# broken users [admin]:
 			"fa46bb4ff709535939eace8517f563b0" : "admin1066admin",
 			"7e4c9f4cded17a09a00ad7bb3ae360a7" : "admin258admin",
@@ -187,14 +186,14 @@ brokenList = {
 			"8b8ab10f37260ca205d7400b1ef22f47" : "cobra25Staffan",
 			"e790a80ca6a01ad4ca68023f5c899d5e" : "cobra25Janne",
 			"126c13dd00bf1a0fea2cea88dd2155d6" : "thbkkjerry",
-
+			"3f3c1d0e979e1acc9f67988ce629301c" : "manterejjanne",
+			"93b3c3b39a151bc01d2d5a2bfc2bca92" : "kalle*2karl",
+			"04b0ca468d4149827024fbe87c7d566a" : "gladalaxenjoakim",
+			"ae914f5ca5e1f137e338cf7a0d43796c" : "sparkontobanken",
 			# gracias hashcat
 			"d7cf11a4abea92ff326d1c96c61d8f39" : "omerbaneadmin",
 			"1302060f10635cf820a34e637882a2b9" : "contarkadmin"
-
 }
-
-
 
 '''  
 user: admin
@@ -266,13 +265,11 @@ bb0ba2d07f19df2e8f242736ede587b8
 557cd52fd9c38865493d1085af0a720e
 29340ee9cdb68da1aa7266c6576b481a
 f10df30a8277dcd637aef6ce82bd7de3
-3f3c1d0e979e1acc9f67988ce629301c
 7c0de6c34a691e4ffa5eb5982ae718c7
 486834ca58c023947b7104a9cfb84578
 3d4d9d2c01c6280667a336c90161994a
 37c8fdb97c49e3454dedd0cc37bcc19a
 608160b923b8ea1520e049c1fecd9c45
-93b3c3b39a151bc01d2d5a2bfc2bca92
 82db58c196db2db3e3c80ef59f1a1d47
 af3f6f14d9658213d441e62ec408243f
 6188010b9854ae4d72565167e3397902
@@ -293,11 +290,6 @@ e4d3b05ba99f2b5aa461eab49930e229
 12078d243bcdac0af1786eabfdf1a320
 7103f59325027ca4663f40dbc60417a6
 0ceea5cc15c126171ef7f07bc11dd88b
-
-
-
-
-
 
 
 e3f74558650dbd4ceb66871bf6cb2321
@@ -331,18 +323,18 @@ daf5650bfaa912d9d4d148fd429e645b
 375987b6fdc85b0811ee8e17a4551f06
 
 
-
-
 # last md5 
 0421cc5d6b24f4d226a24c7623ebc466
 d05f99971e66e5482dfaad1ecfc2f091
-04b0ca468d4149827024fbe87c7d566a
 7f1680eeee4f6fe912d7d6712ac26dab
-ae914f5ca5e1f137e338cf7a0d43796c
 c4d600eb833fc69514590053ad170769
 97556ec65dc72edae937d0e0abe547e1
 
+
+
+
 '''
+
 
 
 bruteList_1 = [
@@ -355,6 +347,7 @@ bruteList_1 = [
 	"ADMIN",
 	"Admin",
 	"admin",
+	"mäyrä",
 	"adm",
 	"test",
 	"demo",
