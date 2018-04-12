@@ -21,7 +21,12 @@ def makeMd5(text):
 
 def bruteDic(hsh, planeUsr):
 	for xPass in bruteList_1:
-		testCred = (xPass + planeUsr)
+		try:
+			testCred = (xPass + planeUsr)
+		except:
+			# ha entrado solo con el passwd: "mäyrä", 
+			testCred = "failllllllllllllllllllllllwertyui"
+			#print "[!] Bad passwd:"+str(xPass)+"\n"
 		toMd5 = makeMd5(testCred)
 
 		if toMd5 == hsh:

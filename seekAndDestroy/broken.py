@@ -180,7 +180,7 @@ brokenList = {
 			"d7cf11a4abea92ff326d1c96c61d8f39" : "omerbaneadmin",
 			"f101bc77cd7c829fe0096c0e37519cd2" : "youarefuckedadmin",
 			"9778e37286dd9f97343f90f3f1602646" : "jevo3232admin",
-			"b6972d565a4b1cbb139c6a26609bd0c7" : "mäyräadmin",
+			"b6972d565a4b1cbb139c6a26609bd0c7" : "mäyräadmin", # --> Jodido
 			"05003f21911ec34cf4a26ce724dc6b4e" : "valoisannoitsija",
 			"de80adc10f6a0cd322da950b750cc433" : "Yhkodityhkodit",
 			"8b8ab10f37260ca205d7400b1ef22f47" : "cobra25Staffan",
@@ -329,8 +329,11 @@ d05f99971e66e5482dfaad1ecfc2f091
 7f1680eeee4f6fe912d7d6712ac26dab
 c4d600eb833fc69514590053ad170769
 97556ec65dc72edae937d0e0abe547e1
-
-
+257d44fac13961f787a1b2296fe45fc2
+728541e21b53a881406ada129522c541
+61723a5f3c3529813ef0d027f96f66ab
+5a8f0f5cbd53a5f782ad63097a1ae5cf
+af05283658bec759bf32564636a497d6
 
 
 '''
@@ -347,7 +350,7 @@ bruteList_1 = [
 	"ADMIN",
 	"Admin",
 	"admin",
-	"mäyrä",
+	#"mäyrä",  #---> Jodido 
 	"adm",
 	"test",
 	"demo",
